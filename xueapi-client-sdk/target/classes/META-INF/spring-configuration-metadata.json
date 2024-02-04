@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "xueapi.client",
+      "type": "com.xuebohao.xueapiclientsdk.XueApiClientConfig",
+      "sourceType": "com.xuebohao.xueapiclientsdk.XueApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xueapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xuebohao.xueapiclientsdk.XueApiClientConfig"
+    },
+    {
+      "name": "xueapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xuebohao.xueapiclientsdk.XueApiClientConfig"
+    }
+  ],
+  "hints": []
+}

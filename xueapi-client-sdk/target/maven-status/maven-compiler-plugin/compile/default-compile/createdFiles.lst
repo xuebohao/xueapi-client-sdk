@@ -1,0 +1,6 @@
+com\xuebohao\xueapiclientsdk\XueApiClientConfig.class
+com\xuebohao\xueapiclientsdk\utils\SignUtil.class
+com\xuebohao\xueapiclientsdk\utils\TimeDifferenceCalculatorUtil.class
+com\xuebohao\xueapiclientsdk\client\XueApiClient.class
+com\xuebohao\xueapiclientsdk\model\UserInfo.class
+META-INF\spring-configuration-metadata.json
